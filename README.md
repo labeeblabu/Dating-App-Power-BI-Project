@@ -3,7 +3,21 @@
 This project analyzes dating app user behavior to understand match success, engagement, and profile performance. The goal is to convert raw interaction data into insights that support better matchmaking and user experience decisions.
 
 
-![introduction](https://github.com/labeeblabu/Dating-App-Power-BI-Project/blob/main/1st.png)
+![image alt](https://github.com/labeeblabu/Dating-App-Power-BI-Project/blob/main/1st.png)
+
+![image alt](https://github.com/labeeblabu/Dating-App-Power-BI-Project/blob/main/2nd.png)
+
+![image alt](https://github.com/labeeblabu/Dating-App-Power-BI-Project/blob/main/3rd.png)
+
+![image alt](https://github.com/labeeblabu/Dating-App-Power-BI-Project/blob/main/4th.png)
+
+![image alt](https://github.com/labeeblabu/Dating-App-Power-BI-Project/blob/main/5th.png)
+
+![image alt](https://github.com/labeeblabu/Dating-App-Power-BI-Project/blob/main/6th.png)
+
+![image alt](https://github.com/labeeblabu/Dating-App-Power-BI-Project/blob/main/7th.png)
+
+![image alt](https://github.com/labeeblabu/Dating-App-Power-BI-Project/blob/main/8th.png)
 
 
 🔄 ETL & Data Preparation
