@@ -1,7 +1,11 @@
 📊 Dating App Matchmaking & User Analytics (Power BI)
 
 This project analyzes dating app user behavior to understand match success, engagement, and profile performance. The goal is to convert raw interaction data into insights that support better matchmaking and user experience decisions.
-![image alt](https://github.com/labeeblabu/Dating-App-Power-BI-Project/blob/main/1st.png)
+
+
+![introduction](https://github.com/labeeblabu/Dating-App-Power-BI-Project/blob/main/1st.png)
+
+
 🔄 ETL & Data Preparation
 
 Data sourced from CSV / Excel
